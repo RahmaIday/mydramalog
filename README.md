@@ -50,3 +50,9 @@ Testing for your React app.
 ### `npm run eject`
 
 Ejects app from the CRA pipeline.
+
+
+## API 
+
+API for getting drama information used from https://github.com/tbdsux/kuryana. Thank you :D
+
