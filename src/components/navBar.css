@@ -1,0 +1,17 @@
+.Nav-Main-Cont{
+    display: flex;
+    gap: 5%;
+    padding: 0.9375rem 0;  /* 15 px(TB) 0px(LR) */
+    border-bottom: solid white;
+    margin: 0 0.6300rem;
+    align-items: center;
+}
+.logo{
+    margin-left: 0.9999rem;
+    width: 5%;
+    height: auto;
+}
+
+.nav-option{
+    color: white;
+}
