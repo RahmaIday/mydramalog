@@ -56,3 +56,7 @@ Ejects app from the CRA pipeline.
 
 API for getting drama information used from https://github.com/tbdsux/kuryana. Thank you :D
 
+
+## Attribution for Icons
+
+<a href="https://www.flaticon.com/free-icons/movies" title="movies icons">Movies icons created by Freepik - Flaticon</a>
