@@ -3,4 +3,31 @@ body {
 }
 
 .LP-body{
+    margin: 20px 45px;
+}
+
+.section-heading{
+    color: white;
+    font-size: 20px;
+    /* using margin top for some reason moves the button too, cos of btns float property */
+    padding-top: 10px;  
+}
+
+.log-btn{
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    background: green; 
+    color: white;
+    font-size: 16px;
+    border: none;
+    /* aligns items in the button to be horizontally centre */
+    align-items: center;
+    gap: 8px;
+    float: right;
+    /* aligns button to the far right: margin-left: auto;  */
+}   
+
+.log-plus{
+    width: 18px;
 }

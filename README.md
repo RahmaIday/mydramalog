@@ -59,4 +59,4 @@ API for getting drama information used from https://github.com/tbdsux/kuryana. T
 
 ## Attribution for Icons
 
-<a href="https://www.flaticon.com/free-icons/movies" title="movies icons">Movies icons created by Freepik - Flaticon</a>
+App logo: <a href="https://www.flaticon.com/free-icons/movies" title="movies icons">Movies icons created by Freepik - Flaticon</a>
